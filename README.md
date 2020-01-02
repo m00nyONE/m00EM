@@ -2,6 +2,7 @@
 ## an emulated CPU in Go
 
 This in a very early state - Changes in the opcode are most likely to happen.
+It is also possible that the complete codebase gets wiped and renewed
 
 ### Instructions:
 
